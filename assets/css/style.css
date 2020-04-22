@@ -508,7 +508,7 @@ body {
 .app-hero-content {
 	overflow: hidden;
 /*	padding: 150px 0 0 0;*/
-	padding: 300px 0 300px 0;
+	padding: 150px 0 400px 0;
 }
 
 .app-hero-content h1 {
@@ -1560,7 +1560,7 @@ label {
 
 	.app-hero-content {
 /*		padding: 150px 0 0 0; */
-			padding: 300px 0 350px 0;
+			padding: 400px 0 400px 0;
 	}
 
 	.app-hero-content h1 {
